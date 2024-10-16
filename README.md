@@ -6,13 +6,11 @@
 
 - 🌱 I’m currently learning **MERN stack and DSA in C++**
 
-- 👨‍💻 Portfolio Link [https://ravneets-portfolio.netlify.app/](https://ravneets-portfolio.netlify.app/)
-
 - 💬 Ask me about **HTML,CSS,Javascript,React.js,Node.js,Express.js and DSA in C++**
 
 - 📫 How to reach me **singhravneet798@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gR83SzD2crI5bswjXgdzSNrEPNWxGDNg/view?usp=sharing](https://drive.google.com/file/d/1gR83SzD2crI5bswjXgdzSNrEPNWxGDNg/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mCxTf71c98psqQAY7oSHplWjd6JzeLIb/view?usp=sharing](https://drive.google.com/file/d/1mCxTf71c98psqQAY7oSHplWjd6JzeLIb/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny**
 
